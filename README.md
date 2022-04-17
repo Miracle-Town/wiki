@@ -1,6 +1,6 @@
 # **Miracle Town Wiki** 
 
-?> 欢迎来到 Minecraft 纯净生存服务器 Miracle Town 的官方 Wiki！
+> 欢迎来到 Minecraft 纯净生存服务器 Miracle Town 的官方 Wiki！
 ***
 ## **服务器基本信息**
 - 版本：**Java 1.16.5** or **Bedrock 1.16.220**
