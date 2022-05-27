@@ -6,7 +6,7 @@
 
 > 欢迎来到 Minecraft 纯净生存服务器 Miracle Town 的官方 Wiki！
 ## **基本信息**
-[![GitHub issues](https://img.shields.io/github/issues/Miracle-Town/wiki)](https://github.com/Miracle-Town/wiki/issues)  [![GitHub forks](https://img.shields.io/github/forks/Miracle-Town/wiki)](https://github.com/Miracle-Town/wiki/network)  [![GitHub stars](https://img.shields.io/github/stars/Miracle-Town/wiki)](https://github.com/Miracle-Town/wiki/stargazers)  [![GitHub license](https://img.shields.io/github/license/Miracle-Town/wiki)](https://github.com/Miracle-Town/wiki)
+[![GitHub issues](https://img.shields.io/github/issues/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/issues)  [![GitHub forks](https://img.shields.io/github/forks/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/network)  [![GitHub stars](https://img.shields.io/github/stars/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/stargazers)  [![GitHub license](https://img.shields.io/github/license/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki)
 
 <u>**Miracle Town**</u> `/ˈmɪrɪkəlˈtaʊn/`，中文译名“奇迹之城”，是由一群热爱 ***Minecraft***（亦作**我的世界**） 的玩家自行搭建的非营利性纯净生存向服务器，我们的口号：**同舟共济 TOGETHER IN THE SAME BOAT**
 - 版本：**Java 1.16-1.18** or **Bedrock 1.16.220**
