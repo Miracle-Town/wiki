@@ -2,7 +2,8 @@
 
 
 
-# **Miracle Town Wiki** [![GitHub issues](https://img.shields.io/github/issues/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/issues)  [![GitHub forks](https://img.shields.io/github/forks/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/network)  [![GitHub stars](https://img.shields.io/github/stars/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/stargazers)  [![GitHub license](https://img.shields.io/github/license/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki) ![test](https://img.shields.io/badge/game-Minecraft-orange?style=flat-square&logo=appveyor) 
+# **Miracle Town Wiki** 
+[![GitHub issues](https://img.shields.io/github/issues/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/issues)  [![GitHub forks](https://img.shields.io/github/forks/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/network)  [![GitHub stars](https://img.shields.io/github/stars/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/stargazers)  [![GitHub license](https://img.shields.io/github/license/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki) ![test](https://img.shields.io/badge/game-Minecraft-orange?style=flat-square&logo=appveyor) 
 
 > 欢迎来到 Minecraft 纯净生存服务器 Miracle Town 的官方 Wiki！
 ## **基本信息**
