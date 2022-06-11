@@ -26,7 +26,7 @@ Wiki 是所有玩家智慧的结晶，善于使用它将帮助你获得更好的
 > 更多内容请前往 [参与编辑](join-edite.md) 页面。
 
 ## **关于 Wiki**
-Miracle Town Wiki 始建立于 2022 年 3 月 11 日 ，你现在所看到的是经过多个 Beta 版本后的 Miracle Town Wiki 的第三个版本（版本号：v3）。随着 Miracle Town 服务器内容的更新迭代，Wiki 的内容也会更新以适应当前服务器的内容。
+Miracle Town Wiki 始建立于 2022 年 3 月 11 日 ，你现在所看到的是经过多个 Beta 版本后的 Miracle Town Wiki 的第一个公开版本（版本号：V2.0）。随着 Miracle Town 服务器内容的更新迭代，Wiki 的内容也会更新以适应当前服务器的内容。
 
 > 更多内容请前往 [关于Wiki](about.md) 页面。
 
