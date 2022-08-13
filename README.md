@@ -1,6 +1,10 @@
 # **Miracle Town Wiki** 
 [![GitHub issues](https://img.shields.io/github/issues/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/issues)  [![GitHub forks](https://img.shields.io/github/forks/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/network)  [![GitHub stars](https://img.shields.io/github/stars/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/stargazers)  [![test](https://img.shields.io/badge/game-Minecraft-orange?style=flat-square&logo=appveyor)](https://minecraft.net/)
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 > 欢迎来到 Minecraft 纯净生存服务器 Miracle Town 的官方 Wiki！
 ## **什么是 Miracle Town**
 
