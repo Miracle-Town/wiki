@@ -1,63 +1,58 @@
-# **市民公约**
-#### 版本 2022-0611-2-O
-> ***Miracle Town***（简称**MT**）为 Minecraft 公益纯净生存向服务器，我们出于保护您和他人的根本利益的目的制定本公约。<br>
-> 对于所有类型玩家，我们都一视同仁，不存在特权与偏爱。我们有权对违反下列规定的玩家进行包括但不仅限于警告/封禁处理并对您拒绝提供游戏相关服务的处罚，请您务必`在入服前仔细阅读以下内容`！
+# **Civic Convention**
+#### Version 2022-0611-2-O
+> ***Miracle Town*** (abbreviated as **MT**) is a Minecraft public welfare pure survival server, and we made this convention for the purpose of protecting the fundamental interests of you and others. <br>
+> We treat all types of players equally, and there is no privilege or preference. We have the right to punish players who violate the following regulations, including but not limited to warning/banning and refusing to provide game-related services. Please be sure to `read the following carefully before entering the server`!
 
-!> **请注意：** 《MT 市民公约》受RX工作室（湖南阿尔克斯网络科技有限公司）《[隐私政策](https://www.rxgzs.cn/privacy/)》和《[服务条款](https://www.rxgzs.cn/clause/)》的制约。无知并不能成为任何人违反规则的借口，在您注册账户时即代表您已认真阅读并同意本公约以及上述所有附属条款。
+**Please note:** "MT Citizens Convention" is regulated by RX Studio (Hunan Arks Network Technology Co., Ltd.) "[Privacy Policy](https://www.rxgzs.cn/privacy/)" and " [Terms of Service](https://www.rxgzs.cn/clause/)”. Ignorance cannot be an excuse for anyone to violate the rules. When you register for an account, it means that you have carefully read and agreed to this agreement and all the above-mentioned subsidiary terms.
 
-## **客户端相关 #R1**
-?> **请注意，此处的内容我们随时都可能会修改，请您确保仔细阅读！**
+## **Client related #R1**
+ **Please note that we may revise the content here at any time, please make sure to read it carefully! **
 
-服务器方面并不会强制要求玩家对于客户端的选择，我们尊重每个人的个人隐私，但我们在必要时有权对您进行客户端模组检查（俗称查端）处理，请您确保您的客户端不会拥有以下行为：
+The server does not force players to choose the client. We respect everyone's personal privacy, but we have the right to check the client module (commonly known as the end check) for you when necessary. Please ensure that your client will not have the following behaviors:
 
-1. 任何本服禁止的 暴力获取物资 的不当模组，外挂、脚本（包括但不限于Killaura，X-Ray等）。
-2. 任何 非原版 性质的恶意发包行为（包括但不限于Fly,NoFall等）。
-3. 对服务器性能产生波动的（俗称IP攻击/假人攻击）。
+1. Any improper modules, plug-ins, and scripts (including but not limited to Killaura, X-Ray, etc.) that are prohibited by this server for violent acquisition of materials.
+2. Any malicious outsourcing behavior of non-original nature (including but not limited to Fly, NoFall, etc.).
+3. The performance of the server fluctuates (commonly known as IP attack / dummy attack).
 
 
-介于本服的公益性，我们允许玩家以下行为：
-1. 任何轻量化的，不会影响服务器生存性质，并以公平前提的模组和脚本（包括但不限于Autofishing，强制疾跑等）。
-2. 本服可使用原版 Tweakeroo 和 Litematica 等有利于建筑、生电的模组。
+Due to the public welfare of this server, we allow players to:
+1. Any lightweight mods and scripts (including but not limited to Autofishing, forced sprinting, etc.)
+2. This server can use the original Tweakeroo and Litematica modules that are beneficial to construction and electricity generation.
 
-## **游戏内容相关 #R2**
-?>最近的一次更新于2022/5/14
+## **Game content related #R2**
+ Last update on 2022/5/14
 
-1. 禁止未经他人允许拿走其他玩家的<u>**任何物品**</u>，包括但不限于人为放置的箱子，熔炉，工作台等可互动方块内物品等
-2. 禁止恶意破坏他人建筑，建筑主人可要求当事人赔偿一定损失
-3. 建造不同于已有建筑群风格的任何建筑（**包括但不限于像素画**）需要与服务器内其他玩家达成协商，并向管理组进行申请，二者均需同意，否则我们有权将您的建筑按照违章建筑处理
-4. 游戏开启玩家伤害，但这并不代表允许您恶意对其他陌生玩家进行骚扰，包括但不限于恶意击杀玩家或变相无故伤害等
-5. 服务器欢迎所有玩家定期举行趣味活动，但我们不建议您举行诸如“送或变相赋予入服未满10天的新人贵重装备”“恶趣味PVP竞赛”等危害服务器和谐和公平的活动
-6. 不得**恶意利用**现运行服务器的所有**漏洞**（又名 **BUG** ），包括但不限于 **Minecraft** 原版服务端以及类 ***Bukkit***,***Spigot***,***Paper*** 等相关魔改服务端仍存在的各种未被修复的不利于游戏平衡性，稳定性的 **BUG** ，一经发现，我们将永久封禁违规账号并将其移至MT看守所。*（我们不会姑息任何形式的作弊行为，MT方认为此类违规行为是仅次于使用非法修改客户端之外的另一严重违规行为）*
-7. 不得在明确划定的服务器公有区域（如出生点等）搭建个人建筑，此类公共区域需玩家集体指明官方建筑师以及常任维护成员（如需建筑请联系对应负责人员）。一般来说，MT服务器每张地图只会保留一个由玩家和管理集体公认的出生点，其余“出生点”均会被视作个人建筑群落
-- **解释**/***Explain***：出生点理应是初级玩家了解并熟悉服务器的新人场所，在这里，应只具备新手物资房、新手引领牌等内容，不应存在带有个人，团体特色的相关内容和引导
+1. It is forbidden to take <u>**any items**</u> of other players without their permission, including but not limited to artificially placed chests, furnaces, workbenches and other interactive block items, etc.
+2. It is forbidden to maliciously damage other people's buildings, and the owner of the building can ask the parties to compensate for certain losses
+3. The construction of any buildings (**including but not limited to pixel paintings**) that is different from the style of the existing buildings requires negotiation with other players in the server, and an application to the management team, both of which need to agree, otherwise we have The right to treat your building as an illegal building
+4. The game enables player damage, but this does not mean that you are allowed to maliciously harass other unfamiliar players, including but not limited to maliciously killing players or harming players in disguise for no reason.
+5. The server welcomes all players to regularly hold interesting activities, but we do not recommend that you hold activities that endanger the harmony and fairness of the server, such as "send or disguised valuable equipment for newcomers who have been in the server for less than 10 days" and "bad fun PVP competition".
+6. Do not **maliciously exploit** all **vulnerabilities** (aka **BUG**) of the currently running server, including but not limited to **Minecraft** original server and ***Bukkit*** ,***Spigot***,***Paper*** and other related magic modification servers still have various unrepaired **BUG** that are not conducive to game balance and stability. Once found, we will The offending account will be permanently banned and moved to the MT Detention Center. *(We will not condone any form of cheating, MT considers such violations to be second only to the use of illegally modified clients as another serious violation)*
+7. It is not allowed to build personal buildings in the clearly delineated public areas of the server (such as birthplaces, etc.). In such public areas, players must collectively indicate the official architect and permanent maintenance members (if you need buildings, please contact the corresponding person in charge). Generally speaking, each map of the MT server will only retain one spawn point recognized by the players and the management collective, and the rest of the "spawn points" will be regarded as individual building communities
+- **Explain**/***Explain***: The spawn point should be a place for newcomers to understand and familiarize themselves with the server. Here, there should only be a novice material room, a novice leading card, etc. Relevant content and guidance for individual and group features
 
-## **聊天相关 #R3**
-!> **此处的`聊天`涉足范围较广，将包含但不限于群聊聊天、游戏聊天等MT服务方向您提供信息交流的公共场所的言论发表。**
+## **Chat related #R3**
+ **The `chat` here covers a wide range, including but not limited to group chats, game chats and other public places where MT services provide you with information exchange. **
 
-1. 禁止在服务器内发送任何淫秽（**包括但不限于擦边球**）、恐怖、赌博以及涉及政治立场（尤其是地缘政治）的聊天消息（包括恶意链接）等。
-> **我们将从重处罚有此类行为的玩家，情节严重者将被永久封禁并移交当地公安机关依法处理。**
-2. 禁止以任何形式侮辱、谩骂、诋毁、人身攻击服务器内的任何玩家（包括但不限于管理员）。
-3. （**本条为第2点的拓展条例**）禁止LGBT群体歧视、种族歧视、性别歧视、宗教信仰歧视等歧视言论以及行为。
-4. 禁止除本服以外任何形式的服务器群聊/频道宣传，以及其他游戏的由玩家自行搭建的交流平台链接等。
+1. It is forbidden to send any obscene (**including but not limited to edgeball**), terror, gambling and chat messages (including malicious links) involving political stances (especially geopolitics) in the server.
+> **We will severely punish players who have such behaviors, and those with serious circumstances will be permanently banned and handed over to the local public security organs for legal processing. **
+2. It is forbidden to insult, abuse, slander, or personally attack any players (including but not limited to administrators) on the server in any form.
+3. (**This article is an extension of point 2**) Discriminatory speech and behavior such as LGBT group discrimination, racial discrimination, sex discrimination, and religious belief discrimination are prohibited.
+4. Any form of server group chat/channel promotion other than this server, as well as links to communication platforms built by players in other games are prohibited.
 
-## **组织相关 #R4**
+## **Organization related #R4**
 *coming soon*...
 
-## **其他规则 #R5**
-1. **不得以任何方式买卖、交换、借用本服内已有白名单玩家账号进行游玩。**
-- **例子** / ***Example***：A和B是好朋友，A有MT服的白名单，B没有，于是A借给B账号使其绕过MT管理组的监管顶替A本人进行游玩
-- **处罚** / ***Punish***：A的账号被封禁3个月，B永久失去MT服务器白名单申请资格
-2. **不得以任何方式任何理由开小号进行游玩。**
-- **解释** / ***Explain***：为保证游戏的多样性和趣味性，MT目前阶段仍在内测，对外实行玩家白名单1+1邀请制，但这并不意味着你可以邀请你自己 :)
-- **处罚** / ***Punish***：永久封禁小号，并禁言主账号游戏内发言2天
-3. **不得使用黑卡账户进行游玩。**
-- **解释** / ***Explain***：MT目前处于正版验证模式，如没有正版账号，请去官网[minecraft.net](minecraft.net)进行购买，我们不建议，不推荐，不提倡，不认可黑卡账号的存在，请前往 **Minecraft** 官网进行正版购买：[minecraft.net](minecraft.net)
-- **处罚** / ***Punish***：永久封禁游戏账号
+## **Other rules #R5**
+1. **You are not allowed to buy, sell, exchange, or borrow an existing whitelisted player account in this server to play in any way. **
+- **Example** / ***Example***: A and B are good friends, A has a whitelist of MT servers, but B does not, so A lends B an account to bypass the supervision of the MT management team and replace A play by myself
+- **Punishment** / ***Punish***: A's account will be banned for 3 months, and B will permanently lose the eligibility to apply for the MT server whitelist
+2. **You are not allowed to play with a trumpet in any way or for any reason. **
+- **Explain** / ***Explain***: In order to ensure the diversity and fun of the game, MT is still in internal testing at this stage, and the external player whitelist 1+1 invitation system is implemented, but this does not mean You can invite yourself :)
+- **Punishment** / ***Punish***: permanently ban the trumpet account and ban the main account from speaking in the game for 2 days
+3. **You cannot play with a black card account. **
+- **Explain** / ***Explain***: MT is currently in the genuine verification mode, if you do not have a genuine account, please go to the official website [minecraft.net](minecraft.net) to purchase, we do not recommend, do not recommend, Not advocating, do not recognize the existence of black card accounts, please go to **Minecraft** official website to purchase genuine: [minecraft.net](minecraft.net)
+- **Punish** / ***Punish***: permanently ban the game account
 
 
-*如遇违反以上规定的相关行为，欢迎各位玩家汇报群聊在线管理员 QQ 或我们的邮箱：mts@rxgzs.cn*
-
-
-    
-    
-
+*In case of violation of the above regulations, players are welcome to report to the group chat online administrator QQ or our email: mts@rxgzs.cn*

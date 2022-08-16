@@ -1,25 +1,25 @@
-## 命令列表
->最近的更新于 ***2022/4/18 19:30***
+## command list
+>Last update at ***2022/4/18 19:30***
 
-|  **命令**   | **内容**  | **备注**  |
-|  ----  | ----  | ---- |
-| /help  | 帮助列表 | 可点击列表 |
-| /zm help  | 点歌帮助 | 播放音乐（需装客户端模组） |
-| /skin help | 设置皮肤 | 更换皮肤 |
-| /co i  | 开启侦测器 | 查询方块数据 |
-| /msg  | 私聊 | 私人聊天 |
+| **Command** | **Content** | **Remarks** |
+| ---- | ---- | ---- |
+| /help | Help List | Clickable List |
+| /zm help | Help for ordering songs | Play music (need to install client mods) |
+| /skin help | Set skin | Change skin |
+| /co i | Enable detector | Query block data |
+| /msg | Private Chat | Private Chat |
 
-## 玩法相关
+## Play related
 
-### 转义文本
-> 聊天栏发送以下文本将会被转义并发送
+### escape text
+> Chat bar sending the following text will be escaped and sent
 
-[item]：当前手持物品的描述
+[item]: Description of the currently held item
 
-[inv]：背包预览
+[inv]: backpack preview
 
-[ender]：末影箱预览
+[ender]: ender chest preview
 
-[pos]：您所在的世界名称以及您的xyz方位坐标（推荐搭配msg私聊命令，让数据更安全）
+[pos]: The name of the world you are in and your xyz azimuth coordinates (recommended with msg private chat command to make data more secure)
 
-[ping]：您与服务器之间的延迟
+[ping]: Latency between you and the server

@@ -1,18 +1,18 @@
-# Miracle Town 运营团队信息
+# Miracle Town Operations Team Information
 
-## **关于我们**
-常驻管理
-- **RX_ZhuMeng** - [`MT服主`] *MT创始人及管理员*
-- **AlanWu** - [`MT常驻管理`] *负责服务器内日常工作*
-- **LinXce** - [`MT常驻管理`] *负责服务器内日常工作*
-- **Xenwayne** - [`MT常驻管理`] *负责服务器底层架构运维*
-- **ngyuq** - [`MT高级事务官`] *负责玩家审核和维护玩家群聊秩序*
+## **about us**
+Resident management
+- **RX_ZhuMeng** - [`MT server owner`] *MT founder and administrator*
+- **AlanWu** - [`MT resident management`] *Responsible for daily work in the server*
+- **LinXce** - [`MT resident management`] *Responsible for daily work in the server*
+- **Xenwayne** - [`MT resident management`] *Responsible for the operation and maintenance of the underlying architecture of the server*
+- **ngyuq** - [`MT Senior Affairs Officer`] *Responsible for player review and maintenance of player group chat order*
 <br/>**...**
 
-## **加入我们**
-*~~有服务器宣发经验？有无处安放的有趣灵魂？想为国内我的世界服务行业做出贡献？想施展自己无处安放的才华？~~*</br>
-> MTS始终坚持以玩家为中心，立志做到国内集趣味，纯净，包容，有爱，人文主义的社区文化，**在这里，我们将发掘每个人的有趣灵魂**
-<br/>临近暑假，我们打算提前招募一些**志愿者**（**VR,volunteer**），负责管理服务器群聊日常，玩家举报，宣发事务，意见收集等，若您满足以下条件，欢迎联系我们的QQ：2215694085，我们将热烈庆祝每个新生代的到来！</br>
+## **join us**
+*~~Have server announcement experience? Have an interesting soul that has nowhere to go? Want to contribute to the domestic my world service industry? Want to unleash your talent that you have nowhere to put? ~~*</br>
+> MTS always adheres to the player-centered, determined to achieve a fun, pure, inclusive, loving and humanistic community culture in China, **Here, we will explore everyone's interesting soul**
+<br/>As the summer vacation is approaching, we plan to recruit some **volunteers** (**VR,volunteer**) in advance, responsible for managing the daily server group chat, player reporting, publicity affairs, opinion collection, etc. If you meet the following requirements Conditions, welcome to contact our QQ: 2215694085, we will warmly celebrate the arrival of each new generation! </br>
 
-## **赞助**
-如需了解更多，请访问我们的官方模块 <u>www.mtsmc.net/donate.html</u>
+## **Sponsored**
+To learn more, visit our official module <u>www.mtsmc.net/donate.html</u>

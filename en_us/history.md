@@ -1,74 +1,74 @@
-# **大事记**
+# **Memorials**
 
-## **2022.7.12 | 服务器迁移**
-非常高兴，今天我们将所有数据全部迁移至了上海节点，这将有效降低游戏的延迟，给玩家带来更好的游戏体验。
+## **2022.7.12 | Server Migration**
+I am very happy that today we have migrated all data to the Shanghai node, which will effectively reduce the delay of the game and bring players a better gaming experience.
 
-同时，服务器配置也进行了更新，感谢所有玩家的耐心守候！
+At the same time, the server configuration has also been updated, thank all players for their patience!
 
-## **2022.6.22 | 成立公司**
-**今天，我们的公司成立了！**
+## **2022.6.22 | Company Formation**
+**Today, our company was established!**
 
-即日起，Miracle Town 的法律运营主体将变更为湖南阿尔克斯网络科技有限公司。任何已经产生的业务将继续履行，不受任何影响；任何用户可以继续使用我们的所有服务。对于任何先前 MT 已经产生的作品和创作内容，版权归湖南阿尔克斯网络科技有限公司所有。
+From now on, the legal operating body of Miracle Town will be changed to Hunan Arks Network Technology Co., Ltd. Any business that has been generated will continue to be performed without any impact; any user can continue to use all our services. For any previous works and creations produced by MT, the copyright belongs to Hunan Arks Network Technology Co., Ltd.
 
-同时，由于法律主体的变更，我们对RX工作室《服务条款》（ https://www.rxgzs.cn/clause/ ）和《隐私政策》（ https://www.rxgzs.cn/privacy/ ）进行了部分修订，新的条款将代替旧的条款产生法律效力，请您及时认真阅读。当您在本公告发出后继续使用我们提供的任何服务时，即代表您已认真阅读并同意上述所有条款。
+At the same time, due to the change of the legal subject, we have made changes to the RX Studio "Terms of Service" (https://www.rxgzs.cn/clause/ ) and "Privacy Policy" (https://www.rxgzs.cn/privacy/ ) Some revisions have been made, and the new terms will replace the old terms and have legal effect. Please read them carefully in time. When you continue to use any services we provide after this announcement, it means that you have carefully read and agreed to all the above terms.
 
-我见青山多妩媚，料青山见我应如是。RX工作室将继续努力产出优质作品，打造中国顶尖的UGC内容团队。感谢大家一如继往的支持！
+I see how charming Qingshan is, and I expect Qingshan to see me like this. RX Studio will continue to work hard to produce high-quality works and build China's top UGC content team. Thank you for your continued support!
 
-## **2022.6.12 | 二周目开启**
-这又是特殊的一天，在经过管理层商讨以及经过玩家投票后，我们正式决定：
+## **2022.6.12 | Week 2 opens**
+This is another special day. After discussions with management and voting by players, we have officially decided:
 
-**开启二周目!且服务器版本升级到1.18.2!**
+**Open the second week! And the server version is upgraded to 1.18.2!**
 
-## **2022.6.10 | 数据损毁**
-非常不幸，由于之前的一系列操作，MT现有数据寄了，最新的备份只能恢复至4.3日。
+## **2022.6.10 | Data Corruption**
+Unfortunately, due to the previous series of operations, the existing data of MT has been sent, and the latest backup can only be restored to 4.3 days.
 
-MT正在经历历史上最黑暗的时期，希望大家能和我们一起共克时艰。
+MT is going through the darkest period in history, I hope everyone can overcome the difficulties together with us.
 
-目前管理组正在协商更好的解决方案。
+The management group is currently negotiating a better solution.
 
-我们正在考虑升级到1.18的船新版本，并双端开启正版验证，以给大家打来更好的游戏体验。
+We are considering upgrading to the new version of the ship 1.18, and opening the genuine verification on both sides to give you a better gaming experience.
 
-详细情况请移步至群投票，进行仲裁处理。
+For details, please move to group voting for arbitration.
 
-再次感谢你和MT一起**风雨守望，同舟共济**！
+Thank you again for **watching the storm and helping each other** with MT!
 
-## **2022.4.4 | 新的玩家社区**
-开黑了社区频道正式开放！立即加入，获取最新消息，与全服好友一起语音聊天！
+## **2022.4.4 | NEW PLAYER COMMUNITY**
+The black community channel is officially open! Join now, get the latest news, and voice chat with friends from all over the server!
 
-当然，你也可以同时加入我们的 QQ 社群 992530110~
+Of course, you can also join our QQ community 992530110~
 
-## **2022.4.4 | 全新 Wiki 正式开放**
-Miracle Town Wiki 正式开放！来 MT Wiki 获取更多帮助！
+## **2022.4.4 | New Wiki officially open**
+Miracle Town Wiki is officially open! Come to MT Wiki for more help!
 
-新手指南、MT市民公约，你想知道的，这里都有。
+Beginner's guide, MT citizen convention, everything you want to know is here.
 
-## **2022.1.28 | 随心所欲地管理你的皮肤**
-就在刚刚，我们完成了皮肤系统的搭建。
+## **2022.1.28 | Manage your skin however you want**
+Just now, we completed the construction of the skin system.
 
-这意味着，您可以随时访问我们的皮肤系统，轻而易举地更换您所喜爱的皮肤！
+This means that you can always access our skin system and change your favorite skin with ease!
 
 ***
 
-## **2021.10.2 | OHHH，工业时代现已来临！**
-新机器、新时代，全面解放生产力。女巫快乐屋、小黑聚会塔、史莱姆温室、猪人断头台、地狱交通、绿绿仙人掌农场等诸多著名景点现已完工，时刻为你提供更加丰富而全面的资源。
-你只管建设，后勤交给我们。
+## **2021.10.2 | OHHH, the Industrial Age is here!**
+New machines and new eras fully liberate productivity. Witch's Happy House, Little Black Party Tower, Slime Greenhouse, Pig Guillotine, Hell Traffic, Green Green Cactus Farm and many other famous attractions have been completed, providing you with more abundant and comprehensive resources at all times.
+You just build and leave the logistics to us.
 
-## **2021.8.18 | YYDS，跨平台数据互通！**
-我们已经支持 java / 基岩版游戏互通，所有游戏数据实时同步！
+## **2021.8.18 | YYDS, cross-platform data exchange!**
+We have supported java / Bedrock Edition game interoperability, all game data is synchronized in real time!
 
-这意味着，您将可以在任何平台上随时访问我们的服务器！
+This means, you will have access to our servers anytime, on any platform!
 
-*提示：java / 基岩版 玩家可同时加入我们的服务器，但不同平台仍是两个账号，物品无法实现互通。
+*Tip: Java / Bedrock Edition players can join our server at the same time, but there are still two accounts on different platforms, and items cannot be exchanged.
 
 
-## **2021.8.21 | 形象更新**
-服务器更名为“Miracle Town”，并发布全新 logo、海报。同时，以内测的形式正式对外开放。
+## **2021.8.21 | Image update**
+The server was renamed "Miracle Town", and a new logo and poster were released. At the same time, it was officially opened to the public in the form of internal testing.
 
-## **2021.8.20 | 全新全景地图**
-前往与游戏服务器实时同步的 地图页面 ，看看众多玩家们的作品。与此同时，你甚至可以和服务器内的玩家在线聊天，所有Web端的聊天内容都将与游戏内的聊天实时同步。
+## **2021.8.20 | New Panoramic Map**
+Go to the map page, which is synced with the game server in real time, to see the creations of many players. At the same time, you can even chat online with players in the server, and all chat content on the web side will be synchronized with the in-game chat in real time.
 
-## **2021.8.17 | 服务器建成**
-这是特殊的一天，因为我们从这天开始以“新手镇”的名字起航。
+## **2021.8.17 | Server built**
+This is a special day as we start sailing under the name "Novice Town" from this day.
 
 ***
 
