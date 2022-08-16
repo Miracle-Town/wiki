@@ -3,10 +3,10 @@
 > ***Miracle Town*** (abbreviated as **MT**) is a Minecraft public welfare pure survival server, and we made this convention for the purpose of protecting the fundamental interests of you and others. <br>
 > We treat all types of players equally, and there is no privilege or preference. We have the right to punish players who violate the following regulations, including but not limited to warning/banning and refusing to provide game-related services. Please be sure to `read the following carefully before entering the server`!
 
-**Please note:** "MT Citizens Convention" is regulated by RX Studio (Hunan Arks Network Technology Co., Ltd.) "[Privacy Policy](https://www.rxgzs.cn/privacy/)" and " [Terms of Service](https://www.rxgzs.cn/clause/)”. Ignorance cannot be an excuse for anyone to violate the rules. When you register for an account, it means that you have carefully read and agreed to this agreement and all the above-mentioned subsidiary terms.
+!> **Please note:** "MT Citizens Convention" is regulated by RX Studio (Hunan Arks Network Technology Co., Ltd.) "[Privacy Policy](https://www.rxgzs.cn/privacy/)" and " [Terms of Service](https://www.rxgzs.cn/clause/)”. Ignorance cannot be an excuse for anyone to violate the rules. When you register for an account, it means that you have carefully read and agreed to this agreement and all the above-mentioned subsidiary terms.
 
 ## **Client related #R1**
- **Please note that we may revise the content here at any time, please make sure to read it carefully! **
+?> **Please note that we may revise the content here at any time, please make sure to read it carefully! **
 
 The server does not force players to choose the client. We respect everyone's personal privacy, but we have the right to check the client module (commonly known as the end check) for you when necessary. Please ensure that your client will not have the following behaviors:
 
@@ -20,7 +20,7 @@ Due to the public welfare of this server, we allow players to:
 2. This server can use the original Tweakeroo and Litematica modules that are beneficial to construction and electricity generation.
 
 ## **Game content related #R2**
- Last update on 2022/5/14
+?> Last update on 2022/5/14
 
 1. It is forbidden to take <u>**any items**</u> of other players without their permission, including but not limited to artificially placed chests, furnaces, workbenches and other interactive block items, etc.
 2. It is forbidden to maliciously damage other people's buildings, and the owner of the building can ask the parties to compensate for certain losses
@@ -32,7 +32,7 @@ Due to the public welfare of this server, we allow players to:
 - **Explain**/***Explain***: The spawn point should be a place for newcomers to understand and familiarize themselves with the server. Here, there should only be a novice material room, a novice leading card, etc. Relevant content and guidance for individual and group features
 
 ## **Chat related #R3**
- **The `chat` here covers a wide range, including but not limited to group chats, game chats and other public places where MT services provide you with information exchange. **
+!> **The `chat` here covers a wide range, including but not limited to group chats, game chats and other public places where MT services provide you with information exchange. **
 
 1. It is forbidden to send any obscene (**including but not limited to edgeball**), terror, gambling and chat messages (including malicious links) involving political stances (especially geopolitics) in the server.
 > **We will severely punish players who have such behaviors, and those with serious circumstances will be permanently banned and handed over to the local public security organs for legal processing. **
