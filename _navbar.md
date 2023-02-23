@@ -1,7 +1,7 @@
 <!-- _navbar.md -->
 
 * [主站](//mtsmc.net)
-* Multi-language
+* 语言设置
   * [English test](/en_us/)
   * [简体中文]()
   * [繁體中文]()
