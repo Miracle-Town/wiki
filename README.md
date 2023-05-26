@@ -11,7 +11,7 @@
 <u>**Miracle Town**</u> `/ˈmɪrɪkəlˈtaʊn/`，官方中文译名“奇迹之城”，是由一群热爱 ***Minecraft***（亦作**我的世界**） 的玩家自行搭建的非营利性纯净生电向服务器。我们期待用我们的热爱，能创造属于我们梦想中的奇迹之城，探索田园牧歌式的人类宜居家园。
 - 版本：**Java 1.18.2**
 - IP：**play.mtsmc.net** 端口默认
-- QQ群：**[992530110](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4M3rLD7yrYc7-s4hXtuDbQcDX-NR40wg&authKey=WQj4LgrYhOzv%2BwU24%2BW3vi813oj4EYxVs1u8hrMTR91gAgoxgjDgdkCcM5ioKjGN&noverify=0&group_code=992530110)**
+- QQ群：[992530110](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4M3rLD7yrYc7-s4hXtuDbQcDX-NR40wg&authKey=WQj4LgrYhOzv%2BwU24%2BW3vi813oj4EYxVs1u8hrMTR91gAgoxgjDgdkCcM5ioKjGN&noverify=0&group_code=992530110)
 
 *具体信息请以官网首页为准。*
 
@@ -26,7 +26,7 @@ Wiki 是所有玩家智慧的结晶，善于使用它将帮助你获得更好的
 
 ## **参与编辑**
 “开放共享”是 Wiki 的生命之源，每个人都可以参与到 Wiki 的编辑创作之中，包括网站的排版、样式或是内容。
-仅需拥有一个 [GitHub](//github.com) 账号，即可开始编辑 Miracle Town Wiki。你的编辑将会在数十分钟后生效并呈现在本站。为了避免误导及滥用，Miracle Town 运营团队和 Wiki 编写人员将确保 Miracle Town Wiki 上内容的真实性和可用性，不可用的内容将会及时移除，但贡献者之名并不会被抹去。
+仅需拥有一个 [GitHub](http://github.com) 账号，即可开始编辑 Miracle Town Wiki。你的编辑将会在数十分钟后生效并呈现在本站。为了避免误导及滥用，Miracle Town 运营团队和 Wiki 编写人员将确保 Miracle Town Wiki 上内容的真实性和可用性，不可用的内容将会及时移除，但贡献者之名并不会被抹去。
 > 更多内容请前往 [参与编辑](join-edite.md) 页面。
 
 ## **关于 Wiki**
