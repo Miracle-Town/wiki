@@ -9,9 +9,9 @@
 ## **什么是 Miracle Town**
 
 <u>**Miracle Town**</u> `/ˈmɪrɪkəlˈtaʊn/`，官方中文译名“奇迹之城”，是由一群热爱 ***Minecraft***（亦作**我的世界**） 的玩家自行搭建的非营利性纯净生电向服务器。我们期待用我们的热爱，能创造属于我们梦想中的奇迹之城，探索田园牧歌式的人类宜居家园。
-- 版本：**Java 1.18.2**（基岩版暂停开放）
+- 版本：**Java 1.18.2**
 - IP：**play.mtsmc.net** 端口默认
-- QQ群：**992530110**
+- QQ群：**[992530110](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4M3rLD7yrYc7-s4hXtuDbQcDX-NR40wg&authKey=WQj4LgrYhOzv%2BwU24%2BW3vi813oj4EYxVs1u8hrMTR91gAgoxgjDgdkCcM5ioKjGN&noverify=0&group_code=992530110)**
 
 *具体信息请以官网首页为准。*
 

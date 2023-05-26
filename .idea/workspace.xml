@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="931715e4-fab7-45ea-93c7-4792f55b45c5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/help.md" beforeDir="false" afterPath="$PROJECT_DIR$/help.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOP.md" beforeDir="false" afterPath="$PROJECT_DIR$/BOP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/join-edite.md" beforeDir="false" afterPath="$PROJECT_DIR$/join-edite.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/join.md" beforeDir="false" afterPath="$PROJECT_DIR$/join.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rule.md" beforeDir="false" afterPath="$PROJECT_DIR$/rule.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PlayerLevel.md" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2M88cWJRtfsvwsw8kha3qtBIHLI" />
   <component name="ProjectViewState">
