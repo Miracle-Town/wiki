@@ -3,9 +3,7 @@ name: 同步至 Origin Server
 on:
     push:
         branches:
-            - main
-    workflow_dispatch:
-        
+            - master
 
 jobs:
     build:
@@ -19,14 +17,14 @@ jobs:
 
             # 上传
             - name: 发布到腾讯云
-              uses: easingthemes/ssh-deploy@v2.1.1
+              uses: easingthemes/ssh-deploy@main
               env:
                   # 私钥
                   SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
                   # scp参数
                   ARGS: '-avzr --delete'
                   # 源目录
-                  SOURCE: 'dist'
+                  SOURCE: ''
                   # 服务器ip：换成你的服务器IP
                   REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
                   # 用户
