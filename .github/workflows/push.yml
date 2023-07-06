@@ -1,4 +1,7 @@
 name: 同步至 Origin Server
+#此文件用于自动同步至 Lighthouse Server
+#请勿修改或删除！！！
+#BY：ZhuMeng
 
 on:
     push:
