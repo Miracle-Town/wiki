@@ -1,8 +1,8 @@
 # 二周年 - 梦想续篇 奇迹无限
 
-[现在预约](https://docs.qq.com/form/page/DWXlKb0RQSVNFRk9V)
-
 ![2years.jpg](https://mtsmc.net/img/2years/head.jpg ':size=50%')
+
+[现在预约](https://docs.qq.com/form/page/DWXlKb0RQSVNFRk9V)
 
 这是一段长达 730 天的传奇故事，每一位 Miracle Town 的市民都是它的见证者。
 
