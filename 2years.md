@@ -4,7 +4,7 @@
 
 ## 前言
 
-## <center>[现在预约](https://docs.qq.com/form/page/DWXlKb0RQSVNFRk9V) | [加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4M3rLD7yrYc7-s4hXtuDbQcDX-NR40wg&authKey=WQj4LgrYhOzv%2BwU24%2BW3vi813oj4EYxVs1u8hrMTR91gAgoxgjDgdkCcM5ioKjGN&noverify=0&group_code=992530110)</center>
+<center>[现在预约](https://docs.qq.com/form/page/DWXlKb0RQSVNFRk9V) | [加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4M3rLD7yrYc7-s4hXtuDbQcDX-NR40wg&authKey=WQj4LgrYhOzv%2BwU24%2BW3vi813oj4EYxVs1u8hrMTR91gAgoxgjDgdkCcM5ioKjGN&noverify=0&group_code=992530110)</center>
 
 ————这是一段长达 730 天的传奇故事，每一位 Miracle Town 的市民都是它的见证者。
 
