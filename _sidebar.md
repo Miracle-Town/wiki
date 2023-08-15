@@ -8,3 +8,4 @@
 * [对外窗口](/BOP "对外窗口 | Miracle Town Wiki")
 * [大事记](/history "大事记 | Miracle Town Wiki")
 * [关于Wiki](/about "关于Wiki | Miracle Town Wiki")
+* [两周年专栏](/2years "2周年 | Miracle Town 2Years")
