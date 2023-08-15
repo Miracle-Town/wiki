@@ -1,6 +1,6 @@
 # 二周年 - 梦想续篇 奇迹无限
 
-![2years.jpg](https://mtsmc.net/img/2years/head.jpg ':size=50%')
+![2years.jpg](https://mtsmc.net/img/2years/sm.jpg)
 
 [现在预约](https://docs.qq.com/form/page/DWXlKb0RQSVNFRk9V)
 
