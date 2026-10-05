@@ -1,3 +1,7 @@
+# Wiki 已迁移
+
+请访问：https://wiki.mtsmc.net
+
 # **Miracle Town Wiki** 
 [![GitHub issues](https://img.shields.io/github/issues/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/issues)  [![GitHub forks](https://img.shields.io/github/forks/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki/fork)  [![GitHub stars](https://img.shields.io/github/stars/Miracle-Town/wiki?style=flat-square)](https://github.com/Miracle-Town/wiki)  [![test](https://img.shields.io/badge/game-Minecraft-orange?style=flat-square&logo=appveyor)](https://minecraft.net/)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
